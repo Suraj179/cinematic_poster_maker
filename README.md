@@ -19,3 +19,7 @@ A Streamlit web app to turn any image into a cinematic-style poster with:
 ```bash
 git clone https://github.com/yourusername/cinematic_poster_maker.git
 cd cinematic_poster_maker
+
+pip install -r requirements.txt
+
+streamlit run app.py
